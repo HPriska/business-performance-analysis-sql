@@ -18,6 +18,3 @@ performa channel, funnel conversion, dan onboarding pelanggan.
 ## Output
 - Query SQL analisis
 - Laporan analisis bisnis (PDF)
-
-## Catatan
-Studi kasus simulasi yang merepresentasikan tugas tim data di lingkungan kerja nyata.
