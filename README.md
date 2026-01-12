@@ -18,3 +18,10 @@ performa channel, funnel conversion, dan onboarding pelanggan.
 ## Output
 - Query SQL analisis
 - Laporan analisis bisnis (PDF)
+
+<!DOCTYPE html>
+<html>
+  <body style="margin:0">
+    <embed src="dashboard.pdf" type="business-performance-analysis-sql.pdf" width="100%" height="100vh" />
+  </body>
+</html>
